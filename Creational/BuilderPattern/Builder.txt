@@ -1,0 +1,6 @@
+WHEN TO USE THE BUILDER PATTERN?
+
+When dealing a complex object that requires a lot of parameters.
+When trying to prevent mistakes from creating a complex object.
+When trying to avoid unreadable,big constructors that are sometimes 
+required for complex objects creation.

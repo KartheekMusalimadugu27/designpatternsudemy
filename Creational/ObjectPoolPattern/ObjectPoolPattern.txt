@@ -1,0 +1,12 @@
+FEATURES OF THE OBJECT POOL PATTERN
+
+Advantages
+
+- Objects are cached
+- Enforces objects reusability
+
+Disadvantages
+
+- The complexity of this pattern tends to be high
+- Tends to rely on other patterns (Mainly Singleton and Factory)
+- Low popularity

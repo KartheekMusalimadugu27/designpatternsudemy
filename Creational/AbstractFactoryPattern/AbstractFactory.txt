@@ -1,0 +1,5 @@
+FEATURES OF THE ABSTRACT FACTORY PATTERN
+
+- Same as Factory pattern in terms of advantages and disadvantages
+
+- Contains a super-factory which creates object factories

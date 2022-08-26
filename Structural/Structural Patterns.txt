@@ -1,0 +1,51 @@
+1. Adaptor
+
+USAGE OF THE ADAPTER PATTERN
+
+- In case of a legacy application
+- In case of converting an interface into another
+- In case of translating a client's requests for a webservice
+
+In JAVA API - Arrays.asList(..), I/O Streams.
+
+2. Bridge
+
+WHEN TO USE THE BRIDGE PATTERN
+
+- When having a complex structure of classes with similar implementations
+- When want to impose the same implementation for multiple objects
+- When providing a map between orthogonal class hierarchies
+
+3. Filter - Same as above with few changes.
+
+4. Composite
+
+FEATURES OF THE COMPOSITE PATTERN
+
+- Designed on tree structure
+- Root level is the component
+- Leaf objects implement the component
+- Composite perform the same operations as the leafs
+- Composite knows about the child objects
+
+5. Decorator - Imp (We can decorate the car with more features without changeing the objects)
+
+- Enhance or extend the behavior of an object dynamically
+- Decorates a base object with multiple features
+- Adheres to the Single Responsibility Principle
+- Uses OOP principles
+
+5. Facade (a single uber interface to one or more subsystems or interfaces intending to make use of the subsystems easier)
+
+6. FlyWeight (String example - Immutable, Cache example)
+
+- sharing state among a large number of fine-grained objects for efficiency
+- It has the capability to optimize the object structure
+
+7. Proxy - Imp - a mechanism to provide a surrogate or placeholder for another object to control access to it
+
+WHEN TO USE THE PROXY PATTERN?
+- When creating a wrapper to cover main's object complexity
+- When creating a security layer for preventing unauthorized access
+
+

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ObjectPool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Creational/ObjectPoolPattern/ObjectPool.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

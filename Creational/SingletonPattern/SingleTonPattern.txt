@@ -1,0 +1,26 @@
+FEATURES OF THE SINGLETON PATTERN
+
+Sometimes we need to have only one instance of our class for example a 
+single DB connection shared by multiple objects as creating a separate 
+DB connection for every object may be costly. Similarly, there can be a 
+single configuration manager or error manager in an application that 
+handles all problems instead of creating multiple managers.
+
+Definition: 
+The singleton pattern is a design pattern that restricts the instantiation
+ of a class to one object.
+
+- Prevents the instantiation of a class more than once
+- Provides single access to an object
+
+Usages:
+
+DBConnections, Logger, Report, Threadpool, Cache etc.
+
+
+Different Ways:
+
+1. Classic Way
+2. Lazy Intilization with Thread Safe
+3. Eager Intilization
+4. Double Checking Lazy Intilization and Thread safe

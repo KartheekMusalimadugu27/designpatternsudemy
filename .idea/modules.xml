@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Creational/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/Creational/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/Creational/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/Creational/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Behavioral/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/Creational/SingletonPattern/SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural/Structural.iml" filepath="$PROJECT_DIR$/Structural/Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/Behavioral/Visitor/Visitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns.iml" />
+    </modules>
+  </component>
+</project>

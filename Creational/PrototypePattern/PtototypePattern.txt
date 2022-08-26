@@ -1,0 +1,14 @@
+FEATURES OF THE PROTOTYPE PATTERN
+
+- Mainly used when the object creation costs you more memory.
+
+- Creating new objects with Clone(), not New()
+- Makes use of an interface (Clonable)
+- Shallow cloning (Cloning only variables) vs deep cloning (Cloning the whole classs)
+- Objects are still unique,even if they are copied
+
+DisAdvantages:
+
+- Not very clear when to use it
+- Usually comes with other design patterns
+- Increased complexity for creating a deep copy
